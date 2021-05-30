@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-10-food-service",
+  "version": "1.0.0",
+  "description": "На компьютере должена быть установлена LTS-версия [Node.js](https://nodejs.org/en/).",
+  "main": ".posthtmlrc.js",
+  "dependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {
+    "parcel-plugin-handlebars-precompile": "^1.0.2",
+    "posthtml-include": "^1.7.1"
+  },
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ievgeniia-n/goit-js-hw-10-food-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ievgeniia-n/goit-js-hw-10-food-service/issues"
+  },
+  "homepage": "https://github.com/ievgeniia-n/goit-js-hw-10-food-service#readme"
+}
